@@ -1,6 +1,6 @@
 # Suspend
 
-Suspend helps you to create PDF, HTML, ODT (Libreoffice) & DOCX (Microsoft Word) versions of your resume kept in [Markdown](http://daringfireball.net/projects/markdown/) format. It is based on Phil Hollenback's [resume](https://github.com/tels7ar/resume) 
+Suspend helps you to create PDF, HTML, ODT (Libreoffice) & DOCX (Microsoft Word) versions of your resume kept in [Markdown](http://daringfireball.net/projects/markdown/) format. It is based on Phil Hollenback's [resume](https://github.com/tels7ar/resume). 
 
 A copy of this file can be found at: http://github.com/ranjhith/suspend
 
@@ -48,12 +48,15 @@ If you want to redo `make clean` & `make`.
 Q: Why is it called "Suspend"?   
 A: To prevent your employer from getting suspicious with the presence of resume.pdf on your work computer. 
 
+Q: After downloading the files, I typed `suspend` & the computer went to sleep. How to fix this?   
+A: Try typing `resume` & wait for a while. Btw, even though this is called `suspend`, you need to execute `make`. No more questions please.
+
 ## License
 
 Copylefted. Send me a note, if Suspend helped your Resume.
 
 ## References
 
-*	Mike White's [resume](https://github.com/mwhite/resume)
-*	SysAdvent [Article](http://sysadvent.blogspot.in/2011/12/day-14-write-your-resume-in-markdown.html)
-*	[Pandoc Demos](http://johnmacfarlane.net/pandoc/demos.html)
+*	Mike White's [resume](https://github.com/mwhite/resume).
+*	SysAdvent [Article](http://sysadvent.blogspot.in/2011/12/day-14-write-your-resume-in-markdown.html).
+*	[Pandoc Demos](http://johnmacfarlane.net/pandoc/demos.html).
