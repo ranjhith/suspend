@@ -1,8 +1,8 @@
 # Ranjhith Kumar Kalisamy
 
-kumarranjhithgmailcom   
-Strip kumarranjhith & reverse as ranjhithkumar.   
-Add a . between [h, k] & [l, c] pairs & an @ between [r, g] pair.   
+someone@email.com   
+555, North South Street,    
+EastWest City, Central, Country.   
 [http://www.ranjhith.com](http://www.ranjhith.com)
 
 ## Objective
