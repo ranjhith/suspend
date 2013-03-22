@@ -42,6 +42,7 @@ If you want to redo `make clean` & `make`.
 *	Embed CSS within the HTML output.
 *	Add generation date to HTML output.
 *	Markdown comments dont get excluded in ODT output. Fix this.
+*	Find a way to add page numbers in the PDF output in (current_page of total_pages) format.
 
 ## FAQ
 
