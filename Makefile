@@ -27,4 +27,4 @@ error-spellcheck.txt:	suspend.md
 	pandoc -s -S -f markdown $< -o $@
 	@echo Created $@
 clean:
-	rm -f *~ *.html *.log *.pdf *.docx *.odt *.tmp error-spellcheck.txt
+	rm -f *~ *.html *.log *.pdf *.docx *.odt *.tmp error-spellcheck.txt suspend.css
